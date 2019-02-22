@@ -1,0 +1,7 @@
+---  Videoteca-V0.1 ---
+
+programa para organizar os meus filmes
+
+1- fazer procura pelo o nome do filme informado pelo o usuario.
+2- Usuario podera adicionar, pesquisar e excluir filmes na videoteca.
+3- Ao final do programa o usuario escolher ver todos os filmes na lista ou simplismente sair
